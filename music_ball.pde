@@ -1,6 +1,7 @@
 import processing.sound.*;
 import java.lang.Math; 
 // This sketch takes an uploaded file and the user can manipulate the sound's speed and panning. 
+// helpful link: https://processing.org/reference/libraries/sound/SoundFile_pan_.html 
 
 /****** VARIABLES *******/
 // music ball variables
