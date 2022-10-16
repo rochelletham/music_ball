@@ -6,3 +6,5 @@ This was my first [Processing](https://processing.org/) project! User can upload
 1. Download [Processing](https://processing.org/download)
 2. Clone this repository
 3. Run the sketch! :) There are some sample soundfiles included in the repo already. 
+
+![](demo.png)
